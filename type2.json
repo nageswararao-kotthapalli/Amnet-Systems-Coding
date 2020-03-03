@@ -1,0 +1,112 @@
+{
+	"paras" : [
+    {
+      "id": "fb23cf30-e99b-491e-9353-1555af5c7047",
+      "child": [
+        {
+          "id": "2e49c272-4132-40d2-b81b-188fb0f777de",
+          "type": "Text",
+          "childObj": {
+            "text": "On ‌"
+          }
+        },
+        {
+          "id": "eac71770-c203-4e55-8b53-8461cfd950f6",
+          "type": "Text",
+          "rProp": {
+            "bold": true
+          },
+          "childObj": {
+            "text": "the ‌Insert ‌tab"
+          }
+        },
+        {
+          "id": "a9465bf1-67a5-4802-8091-76d174f8c203",
+          "type": "Text",
+          "childObj": {
+            "text": ", ‌the ‌"
+          }
+        },
+        {
+          "id": "ba88c041-d5a7-486a-87a4-a9b65b24193c",
+          "type": "Text",
+          "rProp": {
+            "italic": true
+          },
+          "childObj": {
+            "text": "galleries ‌include"
+          }
+        },
+        {
+          "id": "6356168d-20da-4cd9-b834-5684b1bc612d",
+          "type": "Text",
+          "childObj": {
+            "text": " ‌items ‌that ‌are ‌designed ‌to ‌coordinate ‌with ‌the ‌overall ‌look ‌of ‌your ‌document. ‌"
+          }
+        },
+        {
+          "id": "1c155360-5ebf-4c10-be0e-b30998a04715",
+          "type": "Text",
+          "childObj": {
+            "text": "You ‌can ‌use ‌these ‌galleries"
+          }
+        },
+        {
+          "id": "d5637b6f-e015-428b-a481-b7ca39a22438",
+          "type": "Text",
+          "childObj": {
+            "text": " ‌to ‌insert ‌tables, ‌headers, ‌footers, ‌lists, ‌cover ‌pages, ‌and ‌other ‌document ‌building ‌blocks."
+          }
+        }
+      ]
+    },
+    {
+      "id": "72cd2f3a-c04b-47e9-a5dd-9c891fbf3183",
+      "child": [
+        {
+          "id": "2fc345c4-e4e2-4b29-b9f7-00361a79a364",
+          "type": "Text",
+          "childObj": {
+            "text": "When ‌you ‌create ‌pictures, ‌charts, ‌or ‌diagrams, ‌they ‌also ‌coordinate ‌with ‌your ‌current ‌document ‌look. ‌You ‌can ‌easily ‌change ‌the ‌formatting ‌of ‌selected ‌text ‌in ‌the ‌document ‌text ‌by ‌choosing ‌a ‌look ‌for ‌the ‌selected ‌text ‌from ‌the ‌Quick ‌Styles ‌gallery ‌on ‌the ‌Home ‌tab."
+          }
+        }
+      ]
+    },
+    {
+      "id": "560081fb-92a8-4962-9eb9-399f0434e6fc",
+      "child": [
+        {
+          "id": "24916c8a-199c-46dc-a067-1865fc3b8ec9",
+          "type": "Text",
+          "childObj": {
+            "text": "You ‌can ‌also ‌format ‌text ‌directly ‌by ‌using ‌the ‌other ‌controls ‌on ‌the ‌Home ‌tab. ‌Most ‌controls ‌offer ‌a ‌choice ‌of ‌using ‌the ‌look ‌from ‌the ‌current ‌theme ‌or ‌using ‌a ‌format ‌that ‌you ‌specify ‌directly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "e0ae2550-b521-46bb-8e04-5411af30f960",
+      "child": [
+        {
+          "id": "5f955984-28ba-4a6e-b3a2-1c9ef0db038a",
+          "type": "Text",
+          "childObj": {
+            "text": "To ‌change ‌the ‌overall ‌look ‌of ‌your ‌document, ‌choose ‌new ‌Theme ‌elements ‌on ‌the ‌Page ‌Layout ‌tab. ‌To ‌change ‌the ‌looks ‌available ‌in ‌the ‌Quick ‌Style ‌gallery, ‌use ‌the ‌Change ‌Current ‌Quick ‌Style ‌Set ‌command."
+          }
+        }
+      ]
+    },
+    {
+      "id": "1903ce4a-a365-419f-a2ad-6fcd3fd1f73b",
+      "child": [
+        {
+          "id": "b481be96-1cfb-4802-b264-c10f79ba56ef",
+          "type": "Text",
+          "childObj": {
+            "text": "Both ‌the ‌Themes ‌gallery ‌and ‌the ‌Quick ‌Styles ‌gallery ‌provide ‌reset ‌commands ‌so ‌that ‌you ‌can ‌always ‌restore ‌the ‌look ‌of ‌your ‌document ‌to ‌the ‌original ‌contained ‌in ‌your ‌current ‌template. ‌On ‌the ‌Insert ‌tab, ‌the ‌galleries ‌include ‌items ‌that ‌are ‌designed ‌to ‌coordinate ‌with ‌the ‌overall ‌look ‌of ‌your ‌document."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Requirement:
+
+1. Json contains 5 paragraphs.
+2. Need to create paragraphs using json.
+3. Need one input box for range, where range input will be provided.
+4. Need one input box for paragraph number, where paragraph number will be provided.
+4. Need one input box for adding text.
+5. Need one button insert, using range input should insert the text into that particular paragraph.
+6. There should be save button to reflect the changes back to Json, this can be displayed in console.
+
+Code should be in Javascript, may can use Jquery.
+No other framework should be involved.
+
+Example screen shots are attached, please check.
