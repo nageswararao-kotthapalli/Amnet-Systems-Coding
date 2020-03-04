@@ -1,4 +1,4 @@
-<!doctype>
+<!doctype html>
 <html>
 
 <head>
@@ -20,6 +20,7 @@
     </div>
 </body>
 <script>
+    
     function getParas() {
         return [
             {
@@ -138,6 +139,7 @@
     loadParasInDocumnet(); // this writes paragrapghs on the html document app node
 
     function loadParasInDocumnet() {
+        
         app.innerHTML = "";
         paras.forEach(para => {
             let _para = document.createElement('p');
