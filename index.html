@@ -14,6 +14,7 @@
             <input type="number" id="range" name="range"><br><br>
             <label for="paratext">Text:</label>
             <input type="text" id="paratext" name="paratext"><br><br>
+			<button id="insert-button" type="button">Insert</button>
             <button id="save-button" type="button">Save</button>
 
         </form>
@@ -157,9 +158,11 @@
         });
     }
 
-    let saveButton = document.querySelector('#save-button'); // get button
+    let insertButton = document.querySelector('#insert-button'); // get button
+	let saveButton = document.querySelector('#save-button');
+	
     var saveTextForm = document.forms.saveTextForm; // get form
-    saveButton.addEventListener("click", function () {
+    insertButton.addEventListener("click", function () {
         let formData = new FormData(saveTextForm); // get form data
         let para = formData.get("paranumber");
         let range = formData.get("range");
@@ -175,8 +178,13 @@
         }
         // this writes paragrapghs on the html document app node with updated paragrapghs
         loadParasInDocumnet();
+    });
+	
+	  saveButton.addEventListener("click", function () {
+       
         console.log("updated para grapghs json data can be seen here: ", getUpdatedParas());
     });
+
 
     function getUpdatedParas() {
         return paras.map(para => {
